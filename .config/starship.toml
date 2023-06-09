@@ -150,7 +150,7 @@ format = '[ $symbol ($percentage) ]($style)'
 disabled = false
 threshold = -1
 style = "bg:#33658A"
-format = '[ 󰍛 ($ram_pct)   ($swap_pct) ]($style)'
+format = '[  ($ram_pct)   ($swap_pct) ]($style)'
 
 [c]
 symbol = " "
