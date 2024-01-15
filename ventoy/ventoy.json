@@ -1,0 +1,108 @@
+{
+    "theme": {
+        "file": "/ventoy/themes/BigSur/theme.txt",
+        "gfxmode": "max",
+        "display_mode": "GUI",
+        "serial_param": "--unit=0 --speed=9600",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#eff0f1",
+        "fonts": [
+            "/ventoy/themes/bigsur/terminus-12.pf2",
+            "/ventoy/themes/bigsur/terminus-14.pf2",
+            "/ventoy/themes/bigsur/terminus-16.pf2",
+            "/ventoy/themes/bigsur/DejaVuSans-48.pf2",
+            "/ventoy/themes/bigsur/DejaVuSans-Regular-14.pf2"
+        ]
+    },
+    "menu_class": [
+        {
+            "key": "kubuntu",
+            "class": "kubuntu"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "pop-os",
+            "class": "pop-os"
+        },
+        {
+            "key": "arch",
+            "class": "arch"
+        },
+        {
+            "key": "linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "opensuse",
+            "class": "opensuse"
+        },
+        {
+            "key": "elementary",
+            "class": "elementary"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "key": "deepin",
+            "class": "deepin"
+        },
+        {
+            "key": "solus",
+            "class": "solus"
+        },
+        {
+            "key": "zorin-os",
+            "class": "zorin-os"
+        },
+        {
+            "key": "Windows10",
+            "class": "windows"
+        },
+        {
+            "key": "Windows-10",
+            "class": "windows"
+        },
+        {
+            "key": "Windows_10",
+            "class": "windows"
+        },
+        {
+            "key": "Windows11",
+            "class": "windows11"
+        },
+        {
+            "key": "Windows-11",
+            "class": "windows11"
+        },
+        {
+            "key": "Windows_11",
+            "class": "windows11"
+        },
+        {
+            "key": "hirens",
+            "class": "iso2"
+        },
+        {
+            "key": "Hirens",
+            "class": "iso2"
+        },
+        {
+            "key": "HBCD",
+            "class": "iso2"
+        },
+        {
+            "key": "iso",
+            "class": "iso"
+        }
+    ]
+}
