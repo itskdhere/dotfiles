@@ -1,0 +1,15 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Krishnendu Das
+	email = 86651039+itskdhere@users.noreply.github.com
+	signingkey = 3A17B1404ABB0CAD
+[init]
+	defaultBranch = main
+[commit]
+	gpgsign = true
+[gpg]
+	program = C:/Program Files (x86)/gnupg/bin/gpg

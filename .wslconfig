@@ -1,0 +1,10 @@
+[wsl2]
+
+processors=6
+swap=512MB
+vmIdleTimeout=3600000
+
+
+[experimental]
+
+autoMemoryReclaim=gradual
